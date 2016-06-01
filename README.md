@@ -22,3 +22,8 @@ A few things to decide on:
 
 Storyline is currently as follows: (for lack of having a better name I'm just going to use the name Ben)
 
+Ben's father is an inventor who created a time machine. A league of ninjas came and stole it to use it for evil purposes. To get it back, Ben's father makes him take classes from a top-secret (government) place which teaches ninjas for handling crimes that ordinary law enforcement can't. Ben is a loser in school, and gets bullied all the time. After starting to take the ninja lessons, he tries to take on the bullies (that is the first level: Bullies) but the level is extremely hard, so you have to play it several times to get upgrades for yourself before you can beat it. After defeating the bullies and completing his training, he starts his quest to regain the time machine. (The level layout is sort of in a map configuration, the stronghold of the ninjas being the last level. The enemies get increasingly harder as you get closer to the stronghold) After defeating the boss in the final level, Ben finds out that he's really not the boss, but only the 2nd in command, and the boss has captured his father, and is somewhere else. However, Ben has regained the time machine, and the story can be continued in sequel games where he has to rescue his father (using the time machine too)
+
+The level titles and order:
+
+1. **Tutorial: The Bullies**
