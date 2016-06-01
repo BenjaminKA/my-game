@@ -32,3 +32,10 @@ The level titles and order:
 4. **Level 3: Shooting Robots**
 5. **Level 4: Robot Warriors**
 6. **Level 5: Robot Ninjas**
+7. **Level 6: Thugs**
+8. **Level 7: Marksmen**
+9. **Level 8: Warriors**
+10. **Level 9: Ninjas!**
+11. **Level 10: Stronghold** (Everyone + boss at end)
+
+Levels may include enemies from previous levels, but a new enemy is introduced ever level.
