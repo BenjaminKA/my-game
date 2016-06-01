@@ -27,3 +27,8 @@ Ben's father is an inventor who created a time machine. A league of ninjas came 
 The level titles and order:
 
 1. **Tutorial: The Bullies**
+2. **Level 1: Robot Guards**
+3. **Level 2: Robot Expendables**
+4. **Level 3: Shooting Robots**
+5. **Level 4: Robot Warriors**
+6. **Level 5: Robot Ninjas**
