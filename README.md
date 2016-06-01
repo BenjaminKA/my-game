@@ -40,7 +40,7 @@ The level titles and order:
 
 Levels may include enemies from previous levels, but a new enemy is introduced ever level.
 
-Enemies:
+Enemies description:
 
 1. **Bullies**
 2. **Robot Guards**
