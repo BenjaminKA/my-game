@@ -45,11 +45,11 @@ Enemies:
 1. **Bullies**
 2. **Robot Guards**
 3. **Robot Expendables**
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+4. **Shooting Robots**
+5. **Robot Warriors**
+6. **Robot Ninjas**
+7. **Thugs**
+8. **Marksmen**
+9. **Warriors**
+10. **Ninjas**
+11. **Boss**
