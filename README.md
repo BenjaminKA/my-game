@@ -39,3 +39,17 @@ The level titles and order:
 11. **Level 10: Stronghold** (Everyone + boss at end)
 
 Levels may include enemies from previous levels, but a new enemy is introduced ever level.
+
+Enemies:
+
+1. **Bullies**
+2. **Robot Guards**
+3. **Robot Expendables**
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
