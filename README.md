@@ -19,3 +19,6 @@ A few things to decide on:
 2. **How violent is this going to be?** I was thinking that for human enemies, you can only use non-lethal weapons/punches or kicks- just things that stun them. However, you can blow up and destroy the evil robots that come for you.
 
 3. **Finalize storyline.** (Rough storyline below.)
+
+Storyline is currently as follows: (for lack of having a better name I'm just going to use the name Ben)
+
