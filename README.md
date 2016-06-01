@@ -13,6 +13,7 @@ So, my idea for the game is a side-scrolling "ninja" game. It would have a prett
 
 
 A few things to decide on:
+
 1. How will the story be shown to the player between the levels? Cutscenes, like in the Lego Batman video games?
 
 2. How violent is this going to be? I was thinking that for human enemies, you can only use non-lethal weapons/punches or kicks- just things that stun them. However, you can blow up and destroy the evil robots that come for you.
