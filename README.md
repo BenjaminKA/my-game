@@ -38,7 +38,7 @@ The level titles and order:
 10. **Level 9: Ninjas!**
 11. **Level 10: Stronghold** (Everyone + boss at end)
 
-Levels may include enemies from previous levels, but a new enemy is introduced ever level.
+Levels may include enemies from previous levels, but a new enemy is introduced every level.
 
 Enemies description:
 
@@ -53,3 +53,7 @@ Enemies description:
 9. **Warriors**
 10. **Ninjas**
 11. **Boss**
+
+Hitlist:
+
+1. ""Menu** Cool background, nice buttons, nice level select page(map style), and nice shop page.
