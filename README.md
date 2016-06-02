@@ -54,6 +54,12 @@ Enemies description:
 10. **Ninjas**
 11. **Boss**
 
+
 Hitlist:
 
 1. **Menu** Cool background, nice buttons, nice level select page(map style), and nice shop page.
+2. **Enemies** Need an object that can hold all the enemies, including their art and abilities (attack, defense, damage) Also need to figure out how to make the levels easy to modify with the difficulty and wish enemies come. Array??
+3. **Player** Need an object that holds the player, and "links" to the store so when you buy an abilities upgrade, it upgrades your player. Need art for the player: running, jumping, punching, kicking, and maybe one super-upgrade spinning move.
+4. **Background** Need maybe 3 or 4 different backgrounds for the levels, animated but moving half the speed (or slower) than the player
+5. **Obstacles** Need art for bombs/mines to jump over. Add these to the enemy array?
+6. ** Story** Need to figure out how to tell the story between levels.
