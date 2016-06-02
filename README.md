@@ -57,8 +57,8 @@ Enemies description:
 Hitlist for a bare-bones version:
 
 1. Square that responds to key presses using the player object. (Up arrow, space or w: jump. Down arrow or s: kick. Right arrow or d: punch)
-2. Square that moves towards you and can be defeated by kicking or punching using the enemy object.
-3. Small squares for bombs that kill you if you don't jump over them (using the bomb obstacle)
+2. Square that moves towards you and can be defeated by kicking or punching (using the enemy object).
+3. Small squares for bombs that kill you if you don't jump over them (using the bomb obstacle).
 
 Hitlist for things needed which I can implement:
 
