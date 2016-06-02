@@ -55,11 +55,16 @@ Enemies description:
 11. **Boss**
 
 
-Hitlist:
+Hitlist for things needed which I can implement:
 
 1. **Menu.** Need cool background, nice buttons, nice level select page(map style), and nice shop page.
-2. **Enemies.** Need an object that can hold all the enemies, including their art and abilities (attack, defense, damage) Also need to figure out how to make the levels easy to modify with the difficulty and wish enemies come. Array??
+2. **Enemies.** Need an object that can hold all the enemies, including their art and abilities (attack, defense, damage) Also need to figure out how to make the levels easy to modify with the difficulty and which enemies come. Array??
 3. **Player.** Need an object that holds the player, and "links" to the store so when you buy an abilities upgrade, it upgrades your player. Need art for the player: running, jumping, punching, kicking, and maybe one super-upgrade spinning move.
 4. **Background.** Need maybe 3 or 4 different backgrounds for the levels, animated but moving half the speed (or slower) than the player
 5. **Obstacles.** Need art for bombs/mines to jump over. Add these to the enemy array?
 6. **Story.** Need to figure out how to tell the story between levels.
+
+Hitlist for things which would be nice to have, but not sure I can do them:
+
+1. **Terrain.** A terrain that moves up and down with hills and such, making the players move up and down. Without this, the upper half of the screen is going to be extremely bare because I'm not planning on making anything that flies, so everyone will just be walking/running and fighting at the bottom of the screen.
+2. **Weapons** Weapons for Ben to use; katanas, rocket-launchers, M-16s, grenades, pistols, etc. This would be hard to implement as there would be so many more weapons to have to make, and making the enemies react to them. But, a "golden sword of power" that is extremely expensive but necessary to defeat to boss (and is super over-powered for regular enemies) does sound cool.... That would then be the only weapon.
