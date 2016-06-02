@@ -56,4 +56,4 @@ Enemies description:
 
 Hitlist:
 
-1. ""Menu** Cool background, nice buttons, nice level select page(map style), and nice shop page.
+1. **Menu** Cool background, nice buttons, nice level select page(map style), and nice shop page.
